@@ -12,3 +12,6 @@
 
 * It is done when I view the title element I find a concise, descriptive title
 
+* Screenshot: Develop/assets/images/screenshot.png
+
+* Deployed link: https://winstonheard.github.io/Horiseon-challenge/
